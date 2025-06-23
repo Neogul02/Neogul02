@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ## Quick Start
 
-Just run the `neogul` CLI like this:
+Just run the `neogul02` CLI like this:
 ```
-npx neogul
+npx neogul02
 ```
 ```
 Options:
