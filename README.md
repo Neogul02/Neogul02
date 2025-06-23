@@ -25,7 +25,7 @@ npx neogul02
 ```
 ```
 Options:
-  -V, --version    output the version number
+  -v, --version    output the version number
   -g, --github     open github
   -b, --blog       open blog
   -e, --email      display email
