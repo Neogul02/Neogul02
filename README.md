@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+&nbsp;
+
+## Quick Start
+
+Just run the `neogul` CLI like this:
+```
+npx neogul
+```
+```
+Options:
+  -V, --version    output the version number
+  -g, --github     open github
+  -b, --blog       open blog
+  -e, --email      display email
+  -r, --resume     open resume
+  -p, --portfolio  open portfolio
+  -h, --help       display help for command
+```
