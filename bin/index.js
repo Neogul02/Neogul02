@@ -22,7 +22,7 @@ const links = {
   github: { url: 'https://github.com/neogul02', label: chalk.blueBright('GitHub:') },
   blog: { url: 'https://neogul02.tistory.com', label: chalk.hex('#FF8800')('Blog:') },
   email: { url: 'wlsgud2414@naver.com', label: chalk.greenBright('E-mail:') },
-  resume: { url: 'https://www.rallit.com/hub/resumes/1518972/%EC%B5%9C%EC%A7%84%ED%98%95', label: chalk.redBright('Resume:') },
+  resume: { url: 'https://www.rallit.com/resumes/1601008@neogul_02/%EC%B5%9C%EC%A7%84%ED%98%95', label: chalk.redBright('Resume:') },
   portfolio: { url: 'https://choe-jinhyeong.vercel.app', label: chalk.cyanBright('Portfolio:') },
 }
 
