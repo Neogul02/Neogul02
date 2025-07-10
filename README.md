@@ -17,15 +17,14 @@ Here are some ideas to get you started:
 
 Just run the `neogul02` CLI like this:
 ```
-npx neogul02
+npx neogul02 -p
 ```
 ```
 Options:
   -v, --version    output the version number
   -g, --github     open github
   -b, --blog       open blog
-  -e, --email      display email
-  -r, --resume     open resume
   -p, --portfolio  open portfolio
+  -e, --email      display email
   -h, --help       display help for command
 ```
