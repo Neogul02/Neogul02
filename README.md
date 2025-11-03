@@ -15,9 +15,9 @@ npx neogul02 -p
 ```
 ```
 Options:
-  -v, --version    output the version number
   -g, --github     open github
   -b, --blog       open blog
+  -r, --resume     open resume
   -p, --portfolio  open portfolio
   -e, --email      display email
   -h, --help       display help for command
