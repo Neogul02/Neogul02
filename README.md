@@ -11,7 +11,7 @@
 
 Just run the `neogul02` CLI like this:
 ```
-npx neogul02 -p
+npx neogul02
 ```
 ```
 Options:
