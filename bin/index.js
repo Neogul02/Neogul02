@@ -14,7 +14,7 @@ program
 const options = program.opts()
 
 if (options.version) {
-  console.log('v1.0.3, 2025.06.23')
+  console.log('v1.0.10, 2025.12.01')
   process.exit(0)
 }
 
@@ -22,7 +22,7 @@ const links = {
   github: { url: 'https://github.com/neogul02', label: chalk.blueBright('GitHub:') },
   blog: { url: 'https://neogul02.tistory.com', label: chalk.hex('#FF8800')('Blog:') },
   email: { url: 'wlsgud2414@naver.com', label: chalk.greenBright('E-mail:') },
-  resume: { url: 'https://www.rallit.com/resumes/1601008@neogul_02/%EC%B5%9C%EC%A7%84%ED%98%95', label: chalk.redBright('Resume:') },
+  resume: { url: 'https://www.figma.com/design/WBaXINRDszR2CRStJTHpbI/choejinhyeong_resume?node-id=1-341&t=CszlNUeDoUGMCl6u-1', label: chalk.redBright('Resume:') },
   portfolio: { url: 'https://choe-jinhyeong.vercel.app', label: chalk.cyanBright('Portfolio:') },
 }
 

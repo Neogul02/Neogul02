@@ -1,6 +1,6 @@
 {
   "name": "neogul02",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "bin": {
     "neogul02": "bin/index.js"
   },
