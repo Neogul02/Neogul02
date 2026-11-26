@@ -5,6 +5,8 @@
         <img src="https://render.gitanimals.org/farms/Neogul02" width="45%" height="300">
       </a>
   </div>
+  <br>
+  <br>
+  <p>안녕하세요 히요리산도 최진형입니다</p>
+  <br>
 </div>
-
-안녕하세요 히요리산도 최진형입니다
